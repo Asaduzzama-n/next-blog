@@ -1,0 +1,44 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Exploring the Benefits of Regular Writing",
+      "content": "In this blog post, we delve into the advantages of regular writing. Discover how consistent writing can improve creativity, communication skills, and overall well-being.",
+      "author": "Writing Enthusiast",
+      "publish_date": "June 15, 2021",
+      "category": "Writing",
+      "comment_count": 5,
+      "image_url": "/images/exercise_image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tips for Starting Your Own Blog",
+      "content": "Thinking about starting your own blog? This post provides valuable tips and insights for beginners. Learn about choosing a niche, creating engaging content, and building an audience.",
+      "author": "Blogging Pro",
+      "publish_date": "June 12, 2023",
+      "category": "Blogging",
+      "comment_count": 10,
+      "image_url": "/images/company_image.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Finding Inspiration: A Blogger's Journey",
+      "content": "Join us on a journey to discover sources of inspiration for bloggers. From nature walks to reading, explore ways to keep your creative juices flowing and produce compelling content.",
+      "author": "Inspired Blogger",
+      "publish_date": "June 15, 2023",
+      "category": "Inspiration",
+      "comment_count": 15,
+      "image_url": "/images/satellite_image.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mindful Blogging: Balancing Work and Well-Being",
+      "content": "In this post, we explore the concept of mindful blogging and how it can contribute to a balanced and fulfilling life. Discover practical tips for maintaining well-being while pursuing your passion for blogging.",
+      "author": "Mindful Blogger",
+      "publish_date": "June 16, 2023",
+      "category": "Lifestyle",
+      "comment_count": 20,
+      "image_url": "/images/meditation_image.jpg"
+    }
+  ]
+}
